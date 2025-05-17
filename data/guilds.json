@@ -3,7 +3,7 @@
     "id": "GUILD-001",
     "name": "Order of the Silver Dawn",
     "guildMaster": "Lady Caelia",
-    "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
     "foundedYear": 1205,
     "motto": "Light Guides Us"
   },
@@ -11,7 +11,7 @@
     "id": "GUILD-002",
     "name": "Crimson Covenant",
     "guildMaster": "General Rorik",
-    "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
     "foundedYear": 1347,
     "motto": "Strength Through Unity"
   }

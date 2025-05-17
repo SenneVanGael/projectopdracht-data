@@ -6,7 +6,7 @@
     "age": 457,
     "isActive": true,
     "birthDate": "1567-03-05",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/aether-knight.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/AetherKnight.png",
     "rarity": "Legendary",
     "abilities": ["Teleportation", "Energy Blast"],
     "element": "Aether",
@@ -14,7 +14,7 @@
       "id": "GUILD-001",
       "name": "Order of the Silver Dawn",
       "guildMaster": "Lady Caelia",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
       "foundedYear": 1205,
       "motto": "Light Guides Us"
     }
@@ -26,7 +26,7 @@
     "age": 324,
     "isActive": false,
     "birthDate": "1699-10-31",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/shadow-enchantress.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/ShadowEnchantress.png",
     "rarity": "Epic",
     "abilities": ["Shadow Manipulation", "Illusion Casting"],
     "element": "Shadow",
@@ -34,7 +34,7 @@
       "id": "GUILD-002",
       "name": "Crimson Covenant",
       "guildMaster": "General Rorik",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
       "foundedYear": 1347,
       "motto": "Strength Through Unity"
     }
@@ -46,7 +46,7 @@
     "age": 210,
     "isActive": true,
     "birthDate": "1815-09-23",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/flame-sorcerer.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/FlameSorcerer.png",
     "rarity": "Rare",
     "abilities": ["Fireball", "Heat Wave"],
     "element": "Fire",
@@ -54,7 +54,7 @@
       "id": "GUILD-001",
       "name": "Order of the Silver Dawn",
       "guildMaster": "Lady Caelia",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
       "foundedYear": 1205,
       "motto": "Light Guides Us"
     }
@@ -66,7 +66,7 @@
     "age": 120,
     "isActive": true,
     "birthDate": "1905-12-10",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/frost-archer.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/FrostArcher.png",
     "rarity": "Uncommon",
     "abilities": ["Ice Arrow", "Frost Trap"],
     "element": "Ice",
@@ -74,7 +74,7 @@
       "id": "GUILD-002",
       "name": "Crimson Covenant",
       "guildMaster": "General Rorik",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
       "foundedYear": 1347,
       "motto": "Strength Through Unity"
     }
@@ -86,7 +86,7 @@
     "age": 340,
     "isActive": false,
     "birthDate": "1685-03-14",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/earth-shaman.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/EarthShaman.png",
     "rarity": "Common",
     "abilities": ["Rock Armor", "Earthquake"],
     "element": "Earth",
@@ -94,7 +94,7 @@
       "id": "GUILD-001",
       "name": "Order of the Silver Dawn",
       "guildMaster": "Lady Caelia",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
       "foundedYear": 1205,
       "motto": "Light Guides Us"
     }
@@ -106,7 +106,7 @@
     "age": 230,
     "isActive": true,
     "birthDate": "1795-05-22",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/wind-dancer.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/WindDancer.png",
     "rarity": "Uncommon",
     "abilities": ["Gale Force", "Feather Fall"],
     "element": "Air",
@@ -114,7 +114,7 @@
       "id": "GUILD-002",
       "name": "Crimson Covenant",
       "guildMaster": "General Rorik",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
       "foundedYear": 1347,
       "motto": "Strength Through Unity"
     }
@@ -126,7 +126,7 @@
     "age": 280,
     "isActive": false,
     "birthDate": "1745-11-05",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/void-assassin.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/VoidAssasin.png",
     "rarity": "Epic",
     "abilities": ["Shadow Strike", "Phase Shift"],
     "element": "Void",
@@ -134,7 +134,7 @@
       "id": "GUILD-001",
       "name": "Order of the Silver Dawn",
       "guildMaster": "Lady Caelia",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
       "foundedYear": 1205,
       "motto": "Light Guides Us"
     }
@@ -146,7 +146,7 @@
     "age": 480,
     "isActive": true,
     "birthDate": "1545-02-28",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/light-paladin.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/LightPaladin.png",
     "rarity": "Legendary",
     "abilities": ["Holy Shield", "Radiant Strike"],
     "element": "Light",
@@ -154,7 +154,7 @@
       "id": "GUILD-002",
       "name": "Crimson Covenant",
       "guildMaster": "General Rorik",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
       "foundedYear": 1347,
       "motto": "Strength Through Unity"
     }
@@ -166,7 +166,7 @@
     "age": 150,
     "isActive": true,
     "birthDate": "1870-08-01",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/toxic-alchemist.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/ToxicAlchemist.png",
     "rarity": "Rare",
     "abilities": ["Poison Cloud", "Acid Spray"],
     "element": "Poison",
@@ -174,7 +174,7 @@
       "id": "GUILD-001",
       "name": "Order of the Silver Dawn",
       "guildMaster": "Lady Caelia",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/silver-dawn.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/SilverDawnGuild.png",
       "foundedYear": 1205,
       "motto": "Light Guides Us"
     }
@@ -186,7 +186,7 @@
     "age": 999,
     "isActive": false,
     "birthDate": "1026-01-01",
-    "imageUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/chrono-mage.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/ChronoMage.png",
     "rarity": "Epic",
     "abilities": ["Time Warp", "Temporal Shield"],
     "element": "Time",
@@ -194,7 +194,7 @@
       "id": "GUILD-002",
       "name": "Crimson Covenant",
       "guildMaster": "General Rorik",
-      "guildEmblemUrl": "https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/images/crimson-covenant.png",
+      "guildEmblemUrl": "https://raw.githubusercontent.com/SenneVanGael/projectopdracht-data/main/images/CrimsonCovenantGuild.png",
       "foundedYear": 1347,
       "motto": "Strength Through Unity"
     }
